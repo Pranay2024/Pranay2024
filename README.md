@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranay2024
+- 👋 Hi, I’m Pranay
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on CI
